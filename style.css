@@ -1,0 +1,14 @@
+body {
+    background: cornsilk;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.done {
+    text-decoration: line-through;
+}
